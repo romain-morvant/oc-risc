@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.header {
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}
+
+div {
+  text-align: center;
+  padding-bottom: 2em;
+  width: 80%;
+  margin: auto;
+}
+
+.concept {
+  padding-top: 3em;
+}
+
+.footer {
+  padding-top: 15em;
+}
